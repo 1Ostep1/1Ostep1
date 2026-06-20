@@ -1,27 +1,18 @@
-# Hi there 👋, I'm Ramazan!
+## Ramazan Iusupov — Senior iOS Engineer
 
-I’m a passionate **iOS Developer** with **over 5+ years of experience** building innovative mobile applications. I have worked across various industries, including fintech, startups in the U.S., and outsourcing projects, while also mentoring junior developers and leading teams.
+5+ years building iOS apps at fintech scale.  
+Currently at **Kompanion Bank** — owning payment infrastructure  
+for 1M+ users, 450K+ monthly transactions.
 
----
+**What I build:**
+- Payment systems at scale (protocol-driven architecture, state machines)
+- Consumer apps shipped solo end-to-end (Meiman, iZDE Sim)
+- Teams — led iOS engineers at Kompanion and Optima Bank
 
-# 🛠 What I Do
+**Stack:** Swift · SwiftUI · UIKit · async/await · MVVM · RxSwift · KMM
 
-- 📱 **iOS Development**: Expert in Swift, SwiftUI, UIKit, and RxSwift.
-- 🎨 **UI/UX Optimization**: Focused on creating clean, efficient, and user-friendly designs.
-- ⚙️ **Architectural Patterns**: Proficient in MVVM, VIPER, and clean architecture for scalable, maintainable codebases.
-- 🚀 **Team Leadership**: Led a team of 5 developers in a startup to deliver high-quality solutions on time.
-- 📊 **Performance Optimization**:  
-  - Reduced payment form development time by **80%** using the Strategy Pattern and RxSwift.  
-  - Improved card/account loading speed by **75%** through architecture modernization, lazy loading, and caching.  
-  - Lowered memory usage by **35%** by optimizing GIF caching in banking apps.
-- 🧩 **Integration**: Skilled in working with Alamofire + Moya, REST APIs, and third-party SDKs.
+**Live products:**
+- [Meiman](https://apps.apple.com/us/app/meiman/id6742324373) — rental marketplace, 10K+ users, 5.0 rating
+- [iZDE Sim](https://apps.apple.com/us/app/izde-sim/id6720749966) — eSIM platform, 100+ countries
 
----
-
-# 💡 My Core Values
-
-- **Code Quality**: I believe in writing clean, maintainable, and reusable code.
-- **Continuous Improvement**: Always learning new tools and technologies to stay ahead in the industry.
-- **Collaboration**: I thrive in collaborative environments where teamwork drives success.
-
----
+📍 Los Angeles, CA · 🟢 Open to Senior iOS roles · 🇺🇸 US Green Card
