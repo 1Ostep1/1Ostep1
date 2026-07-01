@@ -64,17 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Ostep1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Ostep1&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 ### 🃏 Profile Summary
 
 ![](https://raw.githubusercontent.com/1Ostep1/1Ostep1/main/profile-summary-card-output/github_dark/0-profile-details.svg)
