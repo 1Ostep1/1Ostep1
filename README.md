@@ -7,14 +7,31 @@
 
 ---
 
-### 🧭 About Me
+### 🧑‍💻 About Me
 
-- 🏦 **Fintech scale:** led payment infrastructure at Kompanion Bank — 1M+ users, 450K+ monthly transactions, 98% error-free
-- 🏗️ **Architecture lead:** drove MVI + SwiftUI migration at Optima Bank — 70% of codebase migrated, 40% faster builds
-- 🚀 **Solo builder:** designed & shipped Meiman, an Airbnb-style marketplace — 10K+ users, 5.0 App Store rating, 99.9% crash-free
-- 🇺🇸 **US-based experience:** GIF rendering optimization at Mustard (US remote) — 35% RAM reduction for 10K–20K users
-- 🎓 **Mentor:** iOS instructor at Geeks Bootcamp — 10+ cohorts, 100+ students, multiple now working iOS devs
-- 🟢 US Green Card holder — based in Los Angeles, ready to work without sponsorship
+```swift
+struct Ramazan: iOSEngineer {
+    let role       = "Senior iOS Engineer"
+    let location   = "Los Angeles, CA"
+    let workAuth   = "US Green Card — no sponsorship needed"
+
+    let primary:   [String] = ["Swift", "SwiftUI", "Combine", "async/await"]
+    let secondary: [String] = ["UIKit", "Objective-C", "KMM"]
+    let focus:     [String] = ["Payment Systems", "App Architecture", "Performance"]
+
+    let highlights: [String: String] = [
+        "Kompanion Bank": "Led payments infra — 1M+ users, 98% error-free",
+        "Optima Bank":    "MVI + SwiftUI migration — 70% codebase, 40% faster builds",
+        "Meiman":         "Solo-shipped marketplace — 10K+ users, 5.0★, 99.9% crash-free",
+        "Mustard":        "US remote — 35% RAM reduction on GIF rendering",
+        "Geeks Bootcamp": "iOS instructor — 10+ cohorts, 100+ students"
+    ]
+
+    var currently: String { "Interviewing for Senior iOS roles at US product companies" }
+    var next: String { "Tech Lead / Staff IC track" }
+}
+```
+
 - 🤖 Daily [Claude Code](https://claude.com/claude-code) user — AI-assisted development is part of my workflow
 
 ---
@@ -54,13 +71,18 @@
 
 ### 🚀 Featured Projects
 
+<p align="center">
+  <a href="https://apps.apple.com/us/app/meiman/id6742324373"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=150x50" alt="Download Meiman on the App Store" height="42"/></a>
+  <a href="https://apps.apple.com/us/app/izde-sim/id6720749966"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=150x50" alt="Download iZDE Sim on the App Store" height="42"/></a>
+</p>
+
 | Project | Description |
 |---|---|
 | 🏦 **Kompanion Bank — Payment Infrastructure** | Protocol-driven payment architecture serving 1M+ users, 98% error-free on 450K+ monthly transactions |
 | 🏗️ **Optima Bank — MVI Migration** | Led 5 engineers through MVI + SwiftUI migration, 40% faster builds, 40% faster onboarding |
-| 🏠 **Meiman** | Solo-built Airbnb-style marketplace — booking flows, WebSocket chat, map search, payments — 10K+ users, 5.0★ |
+| 🏠 **[Meiman](https://apps.apple.com/us/app/meiman/id6742324373)** | Solo-built Airbnb-style marketplace — booking flows, WebSocket chat, map search, payments — 10K+ users, 5.0★ · **Live on the App Store** |
 | 🎞️ **Mustard** | GIF rendering optimization for a US-based app — 35% RAM reduction across 30+ concurrent GIFs |
-| 📶 **iZDE Sim** | eSIM marketplace, sole developer |
+| 📶 **[iZDE Sim](https://apps.apple.com/us/app/izde-sim/id6720749966)** | eSIM marketplace, sole developer · **Live on the App Store** |
 
 ---
 
@@ -68,33 +90,14 @@
 
 ![](https://raw.githubusercontent.com/1Ostep1/1Ostep1/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-
-### 🗺️ Career Roadmap
-
-```text
-┌ iOS Fundamentals ───────────── UIKit · Auto Layout · MVC                ✅
-│
-├ Modern Swift ────────────────  SwiftUI · Combine · async/await          ✅
-│
-├ Architecture at Scale ───────  MVVM · MVI · Coordinator · Modular (SPM) ✅
-│
-├ Fintech Systems ─────────────  Payment flows · 1M+ users · 98% uptime   ✅
-│
-├ Solo Product Ownership ──────  Meiman: design → ship → maintain         ✅
-│
-├ US Team Experience ──────────  Mustard (remote)                        ✅
-│
-└ Senior iOS @ US Product Co. ─  Currently interviewing                  🟡 ← here
-```
-
 ---
 
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/iramazan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/1Ostep1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:ostepp1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:iusupov.ramaza.i@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
