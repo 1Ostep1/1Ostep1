@@ -15,8 +15,8 @@ struct Ramazan: iOSEngineer {
     let location   = "Los Angeles, CA"
     let workAuth   = "US Green Card — no sponsorship needed"
 
-    let primary:   [String] = ["Swift", "SwiftUI", "Combine", "async/await"]
-    let secondary: [String] = ["UIKit", "Objective-C", "KMM"]
+    let primary:   [String] = ["Swift", "SwiftUI", "UIKit", "Objective-C", "Combine", "async/await"]
+    let secondary: [String] = ["Android", "Kotlin", "React Native", "KMM"]
     let focus:     [String] = ["Payment Systems", "App Architecture", "Team Leadership", "Concurrency", "Performance"]
     let values:    [String] = ["Native platform depth", "Privacy & security by design", "Craft over shortcuts"]
 
