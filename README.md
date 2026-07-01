@@ -81,6 +81,11 @@
 
 ---
 
+### 🃏 Profile Summary
+
+![](https://raw.githubusercontent.com/1Ostep1/1Ostep1/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+
 ### 🗺️ Career Roadmap
 
 ```text
