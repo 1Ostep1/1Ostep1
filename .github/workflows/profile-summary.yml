@@ -1,18 +1,22 @@
-name: GitHub Profile Summary Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # regenerates once a day
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
-
-permissions:
-  contents: write   # required so the action can commit the generated cards
+  create:
+  schedule: # execute every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
