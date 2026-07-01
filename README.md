@@ -17,7 +17,8 @@ struct Ramazan: iOSEngineer {
 
     let primary:   [String] = ["Swift", "SwiftUI", "Combine", "async/await"]
     let secondary: [String] = ["UIKit", "Objective-C", "KMM"]
-    let focus:     [String] = ["Payment Systems", "App Architecture", "Performance"]
+    let focus:     [String] = ["Payment Systems", "App Architecture", "Team Leadership", "Concurrency", "Performance"]
+    let values:    [String] = ["Native platform depth", "Privacy & security by design", "Craft over shortcuts"]
 
     let highlights: [String: String] = [
         "Kompanion Bank": "Led payments infra — 1M+ users, 98% error-free",
@@ -49,23 +50,43 @@ struct Ramazan: iOSEngineer {
 
 ![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/Async%2FAwait-orange?style=for-the-badge)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![GCD](https://img.shields.io/badge/GCD%20%2F%20OperationQueue-4B0082?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-4B0082?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/MVI-673AB7?style=for-the-badge)
 ![Coordinator](https://img.shields.io/badge/Coordinator%20Pattern-6A1B9A?style=for-the-badge)
+![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Tuist](https://img.shields.io/badge/Tuist-4A90D9?style=for-the-badge)
 
-**Persistence, Networking & Tooling**
+**Networking & Security**
+
+![URLSession](https://img.shields.io/badge/URLSession-005571?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![SSL Pinning](https://img.shields.io/badge/SSL%20Pinning-004d40?style=for-the-badge)
+![Keychain](https://img.shields.io/badge/Keychain-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Biometric Auth](https://img.shields.io/badge/Face%20ID%20%2F%20Touch%20ID-000000?style=for-the-badge&logo=apple&logoColor=white)
+![App Transport Security](https://img.shields.io/badge/App%20Transport%20Security-004d40?style=for-the-badge)
+
+**Persistence & Backend**
 
 ![Core Data](https://img.shields.io/badge/Core%20Data-1E88E5?style=for-the-badge&logo=apple&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![URLSession](https://img.shields.io/badge/URLSession-005571?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Testing, CI/CD & Distribution**
+
+![XCTest](https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![SwiftLint](https://img.shields.io/badge/SwiftLint-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00CED1?style=for-the-badge&logo=fastlane&logoColor=black)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=testflight&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-**Cross-Platform**
-
-![Kotlin Multiplatform](https://img.shields.io/badge/KMM-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+*Also comfortable with Kotlin Multiplatform (KMM) for shared business logic when a project calls for it — but native Swift/SwiftUI is home base.*
 
 ---
 
