@@ -2,7 +2,7 @@
 <h3 align="center">Senior iOS Engineer · Swift & SwiftUI · San Francisco, CA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+native+iOS+apps+that+scale+to+1M%2B+users;5%2B+years+shipping+Swift+%2F+SwiftUI;Fintech+%2B+consumer+apps+%2B+independently-shipped+products;Currently+exploring+Senior+iOS+roles+in+the+US" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+native+iOS+apps+that+scale+to+1.3M%2B+users;5%2B+years+shipping+Swift+%2F+SwiftUI;Fintech+%2B+consumer+apps+%2B+independently-shipped+products;Currently+exploring+Senior+iOS+roles+in+the+US" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,20 +14,17 @@ struct Ramazan: iOSEngineer {
     let role       = "Senior iOS Engineer"
     let location   = "San Francisco, CA"
     let workAuth   = "US Green Card — no sponsorship needed"
-
     let primary:   [String] = ["Swift", "SwiftUI", "UIKit", "Objective-C", "Combine", "async/await"]
     let secondary: [String] = ["Android", "Kotlin", "React Native", "KMM"]
     let focus:     [String] = ["Payment Systems", "App Architecture", "Team Leadership", "Concurrency", "Performance"]
     let values:    [String] = ["Native platform depth", "Privacy & security by design", "Craft over shortcuts"]
-
     let highlights: [String: String] = [
         "Kompanion Bank": "iOS Engineer → Senior/Team Lead — payment error rate 5%→2% on 450K+ monthly txns, led SPM/Tuist migration (25+ deps)",
-        "Optima Bank":    "Led 5 engineers, drove MVI + KMM parity — 70% SwiftUI migration, 98.5% crash-free",
+        "Optima Bank":    "Led 5 engineers, drove MVI to match KMM's intent-state contract — 70% SwiftUI migration, 98.5% crash-free",
         "Meiman":         "Lead iOS Engineer (contract) — 10K+ users, 5.0★, MVVM + RxSwift",
         "Mustard":        "20+ social features shipped, GIF pipeline rework, 99.6% crash-free",
         "Geeks Bootcamp": "iOS instructor — 10+ cohorts, 100+ students, 20+ now working iOS engineers"
     ]
-
     var currently: String { "Interviewing for Senior iOS roles at US product companies" }
     var next: String { "Tech Lead / Staff IC track" }
 }
@@ -103,8 +100,8 @@ struct Ramazan: iOSEngineer {
 
 | Project | Description |
 |---|---|
-| 🏦 **[Kompanion Bank](https://apps.apple.com/us/app/kompanion/id1459828752) — Payment Infrastructure** | Re-architected the payment form into a protocol-driven Composer stack, cutting the error rate from 5% to 2% across 450K+ monthly transactions for 1M+ users · **Live on the App Store** |
-| 🏗️ **[Optima Bank](https://apps.apple.com/us/app/optima24/id1021852052) — MVI Migration** | Led 5 engineers, drove MVI adoption for KMM parity (100% shared business logic iOS/Android), 70% SwiftUI migration at 98.5% crash-free · **Live on the App Store** |
+| 🏦 **[Kompanion Bank](https://apps.apple.com/us/app/kompanion/id1459828752) — Payment Infrastructure** | Re-architected the payment form into a protocol-driven Composer stack, cutting the error rate from 5% to 2% across 450K+ monthly transactions for 1.3M+ users · **Live on the App Store** |
+| 🏗️ **[Optima Bank](https://apps.apple.com/us/app/optima24/id1021852052) — MVI Migration** | Led 5 engineers, drove MVI adoption to match KMM's intent-state contract — kept business logic in sync across iOS/Android for B2B and B2C features, 70% SwiftUI migration at 98.5% crash-free · **Live on the App Store** |
 | 🏠 **[Meiman](https://apps.apple.com/us/app/meiman/id6742324373)** | Lead iOS Engineer (contract) — Airbnb-style marketplace, MVVM + RxSwift, Google Maps SDK, real-time chat via PusherSwift — 10K+ users, 5.0★ · **Live on the App Store** |
 | 📶 **[iZDE Sim](https://apps.apple.com/us/app/izde-sim/id6720749966)** | Lead iOS Engineer (contract) — eSIM marketplace via FreedomSDK, 5,000+ users across 100+ countries, 99% crash-free · **Live on the App Store** |
 | ⌨️ **[Dungan Keyboard](https://apps.apple.com/us/app/%D0%B4%D1%83%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/id6758463468)** | Custom iOS Keyboard Extension bringing native Cyrillic input to the Dungan language, sole developer · **Live on the App Store** |
