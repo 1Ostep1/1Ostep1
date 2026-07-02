@@ -92,17 +92,13 @@ struct Ramazan: iOSEngineer {
 
  🚀 Featured Projects
 
-| Project | Description |
-
-|---|---|
-
 | 🏦 **[Kompanion Bank](https://apps.apple.com/us/app/kompanion/id1459828752) — Payment Infrastructure** | Protocol-driven payment architecture serving 1M+ users, 98% error-free on 450K+ monthly transactions · **Live on the App Store** |
 
 | 🏗️ **[Optima Bank](https://apps.apple.com/us/app/optima24/id1021852052) — MVI Migration** | Led 5 engineers through MVI + SwiftUI migration, 40% faster builds, 40% faster onboarding · **Live on the App Store** |
 
 | 🏠 **[Meiman](https://apps.apple.com/us/app/meiman/id6742324373)** | Solo-built Airbnb-style marketplace — booking flows, WebSocket chat, map search, payments — 10K+ users, 5.0★ · **Live on the App Store** |
 
-| 🎞️ **Mustard** | GIF rendering optimization for a US-based app — 35% RAM reduction across 30+ concurrent GIFs |
+| 🎞️ **[Mustard](https://apps.apple.com/us/iphone/search?term=mustard)** | GIF rendering optimization for a US-based app — 35% RAM reduction across 30+ concurrent GIFs |
 
 | 📶 **[iZDE Sim](https://apps.apple.com/us/app/izde-sim/id6720749966)** | eSIM marketplace, sole developer · **Live on the App Store** |
 
