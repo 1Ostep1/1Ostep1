@@ -90,19 +90,20 @@ struct Ramazan: iOSEngineer {
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://apps.apple.com/us/app/meiman/id6742324373"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=150x50" alt="Download Meiman on the App Store" height="42"/></a>
-  <a href="https://apps.apple.com/us/app/izde-sim/id6720749966"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=150x50" alt="Download iZDE Sim on the App Store" height="42"/></a>
-</p>
+ 🚀 Featured Projects
 
 | Project | Description |
+
 |---|---|
-| 🏦 **Kompanion Bank — Payment Infrastructure** | Protocol-driven payment architecture serving 1M+ users, 98% error-free on 450K+ monthly transactions |
-| 🏗️ **Optima Bank — MVI Migration** | Led 5 engineers through MVI + SwiftUI migration, 40% faster builds, 40% faster onboarding |
+
+| 🏦 **[Kompanion Bank](https://apps.apple.com/us/app/kompanion/id1459828752) — Payment Infrastructure** | Protocol-driven payment architecture serving 1M+ users, 98% error-free on 450K+ monthly transactions · **Live on the App Store** |
+
+| 🏗️ **[Optima Bank](https://apps.apple.com/us/app/optima24/id1021852052) — MVI Migration** | Led 5 engineers through MVI + SwiftUI migration, 40% faster builds, 40% faster onboarding · **Live on the App Store** |
+
 | 🏠 **[Meiman](https://apps.apple.com/us/app/meiman/id6742324373)** | Solo-built Airbnb-style marketplace — booking flows, WebSocket chat, map search, payments — 10K+ users, 5.0★ · **Live on the App Store** |
+
 | 🎞️ **Mustard** | GIF rendering optimization for a US-based app — 35% RAM reduction across 30+ concurrent GIFs |
+
 | 📶 **[iZDE Sim](https://apps.apple.com/us/app/izde-sim/id6720749966)** | eSIM marketplace, sole developer · **Live on the App Store** |
 
 ---
