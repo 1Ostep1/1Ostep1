@@ -108,7 +108,7 @@ struct Ramazan: iOSEngineer {
 | 🏠 **[Meiman](https://apps.apple.com/us/app/meiman/id6742324373)** | Lead iOS Engineer (contract) — Airbnb-style marketplace, MVVM + RxSwift, Google Maps SDK, real-time chat via PusherSwift — 10K+ users, 5.0★ · **Live on the App Store** |
 | 📶 **[iZDE Sim](https://apps.apple.com/us/app/izde-sim/id6720749966)** | Lead iOS Engineer (contract) — eSIM marketplace via FreedomSDK, 5,000+ users across 100+ countries, 99% crash-free · **Live on the App Store** |
 | ⌨️ **[Dungan Keyboard](https://apps.apple.com/us/app/%D0%B4%D1%83%D0%BD%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0/id6758463468)** | Custom iOS Keyboard Extension bringing native Cyrillic input to the Dungan language, sole developer · **Live on the App Store** |
-| 🎞️ **Mustard** | GIF rendering pipeline rework + 20 core social features shipped (Instagram-style profiles, AVFoundation video, comments, follow system), 99.6% crash-free |
+| 🎞️ **[Mustard](https://apps.apple.com/us/app/mustard-love/id6677056714)** | GIF rendering pipeline rework + 20 core social features shipped (Instagram-style profiles, AVFoundation video, comments, follow system), 99.6% crash-free |
 
 Also shipped: [Izde](https://apps.apple.com/us/app/izde/id6498629576) · [Tazar](https://apps.apple.com/us/app/tazar-kg/id1523623515) · and 3 more small apps *(early-stage / not fully featured)*
 
