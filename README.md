@@ -116,7 +116,7 @@ Also shipped: [Izde](https://apps.apple.com/us/app/izde/id6498629576) · [Tazar]
 
 ### 🃏 Profile Summary
 
-![](https://raw.githubusercontent.com/1Ostep1/1Ostep1/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/iusupov-ramazan/iusupov-ramazan/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 ---
 
@@ -124,10 +124,10 @@ Also shipped: [Izde](https://apps.apple.com/us/app/izde/id6498629576) · [Tazar]
 
 <p align="center">
   <a href="https://linkedin.com/in/iramazan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/1Ostep1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/iusupov-ramazan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:iusupov.ramazan.i@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Ostep1&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iusupov-ramazan&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile views" />
 </p>
